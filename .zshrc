@@ -1,6 +1,6 @@
-# Luc's config for the Zoomer Shell
+# Poaclu's ZSH config
 
-# Enable colors and change prompt:
+# Enable colors and iniat prompt if no powerline:
 autoload -U colors && colors
 PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
 
