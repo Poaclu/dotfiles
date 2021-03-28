@@ -11,3 +11,4 @@ Main config :
 Things i use as well:
  - SpaceVim ([Git](https://github.com/SpaceVim/SpaceVim))
  - Polybar Themes (Forest) ([Git](https://github.com/adi1090x/polybar-themes))
+ - Powerline (Zsh) ([Git](https://github.com/powerline/powerline))
